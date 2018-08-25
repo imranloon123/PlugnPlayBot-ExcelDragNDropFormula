@@ -1,0 +1,14 @@
+{
+  "name": "MsExcel Drag & Drop Formula - Plug&Play",
+  "description": "Project",
+  "main": "Excel Create Working File.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6811.36306",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
